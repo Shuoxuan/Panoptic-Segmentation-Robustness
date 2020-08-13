@@ -10,12 +10,15 @@ This project focus on the evaluation of the robustness of USPNet for panoptic se
 # Results
 ## Attack Results
 ![Attack](https://github.com/Shuoxuan/Panoptic-Segmentation-Robustness/blob/master/images/Attack.jpg)
+(a) Adversarial images
+(b) Panoptic segmentation results
+(c) Absolute value between original images and adversarial images
 
 ## Defense Results
 ![Defense](https://github.com/Shuoxuan/Panoptic-Segmentation-Robustness/blob/master/images/Defense.jpg)
-
-## Defense Results
-![Defense](https://github.com/Shuoxuan/Panoptic-Segmentation-Robustness/blob/master/images/Defense.jpg)
+(a) Preprocessed adversarial images
+(b) Panoptic segmentation results
+(c) Absolute value between preprocessed images and adversarial images
 
 
 # Disclaimer
